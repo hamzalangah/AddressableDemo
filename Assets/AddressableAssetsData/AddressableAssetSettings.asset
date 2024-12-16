@@ -17,7 +17,7 @@ MonoBehaviour:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
@@ -34,9 +34,9 @@ MonoBehaviour:
   m_MonoScriptBundleNaming: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
-    m_Id: 
+    m_Id: a8ff574fea3499d47ad5c80fd0d3cb9f
   m_RemoteCatalogLoadPath:
-    m_Id: 
+    m_Id: 43bca3b5b9d0c1d4caf9c032b3f8caeb
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
   m_overridePlayerVersion: 
@@ -55,15 +55,15 @@ MonoBehaviour:
       m_ProfileName: Default
       m_Values:
       - m_Id: ba1b2408c15641b4da9e898d7ce72d12
-        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+        m_Value: https://raw.githubusercontent.com/hamzalangah/AddressableDemo/refs/heads/main/Assets/AddressableAssetsData/AssetGroups/[UnityEditor.EditorUserBuildSettings.activeBuildTarget]
       - m_Id: 5e67a077d7a14764db32d1ca1b30a918
         m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
       - m_Id: 12fa57cad3243f747b6f19e9bded22b3
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: a8ff574fea3499d47ad5c80fd0d3cb9f
-        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+        m_Value: ServerData/[UnityEditor.EditorUserBuildSettings.activeBuildTarget]
       - m_Id: 43bca3b5b9d0c1d4caf9c032b3f8caeb
-        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+        m_Value: https://raw.githubusercontent.com/hamzalangah/AddressableDemo/refs/heads/main/Assets/AddressableAssetsData/AssetGroups/[UnityEditor.EditorUserBuildSettings.activeBuildTarget]
     m_ProfileEntryNames:
     - m_Id: ba1b2408c15641b4da9e898d7ce72d12
       m_Name: BuildTarget
