@@ -21,6 +21,22 @@ MonoBehaviour:
     m_Address: Assets/Scenes/gameplay.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 3512983ea8c4a464aa85cc12e65758d3
+    m_Address: Assets/Environment/Lagendary_Offroad_Environment_Big_Change/FBX/Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d47c503d140b7c478f8b6d5ba4f40c1
+    m_Address: Assets/Environment/Lagendary_Offroad_Environment_Big_Change/FBX/Small_Town_Buildings.fbm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7bc4d4a954d5c147be162bd0afec05f
+    m_Address: Assets/Environment/Lagendary_Offroad_Environment_Big_Change/FBX/Legendary_Offroad_Environment.fbm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2e4cdbc5e58eaf4d80b24afeecf6f10
+    m_Address: Assets/Environment/Lagendary_Offroad_Environment_Big_Change/Textures
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7d9474e359aedeb4f892fe8a01c7eef9, type: 2}
   m_SchemaSet:
