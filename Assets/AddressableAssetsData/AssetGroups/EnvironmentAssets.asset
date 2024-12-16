@@ -17,12 +17,8 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 223ad94ce9429684f8479033dfa7398e
   m_SerializeEntries:
-  - m_GUID: f67940b7f1d3c944086ee4f4f0aed390
-    m_Address: Assets/Environment/Legendary_Offroad_Environment.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: f7bc4d4a954d5c147be162bd0afec05f
-    m_Address: Assets/Environment/Lagendary_Offroad_Environment_Big_Change/FBX/Legendary_Offroad_Environment.fbm
+  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
+    m_Address: Assets/Scenes/gameplay.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
