@@ -14,5 +14,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/levelplay.unity
     guid: 7d706ebe932896a499e3917d6b37bc5e
+  - enabled: 1
+    path: Assets/Scenes/gameplay.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 24f73a2f425c1604892593778a9dd02d, type: 2}

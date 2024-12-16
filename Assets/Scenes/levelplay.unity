@@ -575,8 +575,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05b84400599f36548bf5de1e44b6824a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  addressableScenename:
+  addressableSceneName:
     m_AssetGUID: 9fc0d4010bbf28b4594072e72b8655ab
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  addressableTexture:
+    m_AssetGUID: 18f26733becc28842a240efc8a08f92a
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
