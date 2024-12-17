@@ -37,6 +37,10 @@ MonoBehaviour:
     m_Address: Assets/Environment/Lagendary_Offroad_Environment_Big_Change/Textures
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 138227354644af5468c2ce9d727e981d
+    m_Address: Assets/NewShaderVariants.shadervariants
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7d9474e359aedeb4f892fe8a01c7eef9, type: 2}
   m_SchemaSet:
